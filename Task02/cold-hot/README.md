@@ -61,7 +61,7 @@
 
 1. **Склонируйте репозиторий**:
    ```bash
-   git clone https://github.com/Mar1o2003/cold-hot.git
+   git clone https://github.com/Ivante2004/cold-hot.git
    ```
 
 2. **Перейдите в каталог проекта**:
@@ -82,7 +82,7 @@
    - Или если ваш пакет опубликован на Packagist, установите его глобально:
 
    ```bash
-   composer global require mario2003/cold-hot
+   composer global require Ivante2004/cold-hot
    ```
 
    - И затем выполните команду:
@@ -101,4 +101,4 @@
 - [Composer Documentation](https://getcomposer.org/doc/)
 
 ## Ссылки на пакеты
-- [Packagist пакет cold-hot](https://packagist.org/packages/mario2003/cold-hot)
+- [Packagist пакет cold-hot](https://packagist.org/packages/Ivante2004/cold-hot)
