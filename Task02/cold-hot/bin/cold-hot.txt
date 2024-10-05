@@ -2,6 +2,6 @@
 <?php
 require __DIR__ . '/../vendor/autoload.php';
 
-use Mario2003\ColdHot\Controller;
+use Ivante2004\ColdHot\Controller;
 
 Controller\startGame();
