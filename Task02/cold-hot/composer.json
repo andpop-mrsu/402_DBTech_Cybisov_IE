@@ -1,0 +1,28 @@
+{
+    "name": "Ivante2004/cold-hot",
+    "description": "Implementation of the game \"Cold-hot\"",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ivante2004\\Cold-hot\\": "src/"
+        },
+        "files": [
+            "src/Controller.php",
+            "src/View.php"
+        ]
+    },
+    "bin": [
+        "bin/cold-hot"
+    ],
+    "authors": [
+        {
+            "name": "Ivante2004",
+            "email": "tsybisov2004@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.0"
+    }
+}
