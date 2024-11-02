@@ -1,5 +1,5 @@
 {
-    "name": "Ivante2004/cold-hot",
+    "name": "ivante2004/cold-hot",
     "description": "Implementation of the game \"Cold-hot\"",
     "type": "project",
     "license": "MIT",
@@ -8,12 +8,13 @@
             "Ivante2004\\Cold-hot\\": "src/"
         },
         "files": [
-            "src/Controller.php",
-            "src/View.php"
+			"src/Controller.php",
+            "src/View.php",
+            "src/Model.php"
         ]
     },
     "bin": [
-        "bin/cold-hot"
+        "bin/start.php"
     ],
     "authors": [
         {
